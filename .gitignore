@@ -6,3 +6,4 @@ build/
 node_modules/
 *.pyc
 .env
+.cache/
